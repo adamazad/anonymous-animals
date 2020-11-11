@@ -1,0 +1,32 @@
+{
+  "name": "anonymous-animals",
+  "version": "1.0.0",
+  "description": "Generate unique anonymouse animal names like Google Docs",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": {
+    "email": "adam@adamazad.com",
+    "name": "Adam Azad",
+    "url": "https://adamazad.com"
+  },
+  "main": "dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "dist/"
+  ],
+  "keywords": [
+    "random",
+    "mock",
+    "data",
+    "google"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.14.7",
+    "lodash": "^4.17.20",
+    "typescript": "^4.0.5"
+  }
+}
