@@ -2,6 +2,10 @@
   "name": "anonymous-animals",
   "version": "1.0.0",
   "description": "Generate unique anonymouse animal names like Google Docs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamazad/anonymous-animals"
+  },
   "scripts": {
     "build": "tsc"
   },
